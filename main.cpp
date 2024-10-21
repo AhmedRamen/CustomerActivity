@@ -15,6 +15,6 @@ int main() {
 	//Assign data to customer
 	customer.id = 19243;
 	customer.name = "Jass";
-	customer.email = "jass.jackrabbitz@gmail.com";
+	customer.email = "ciniw77441@jameagle.com";
 	printCustomer(customer);
 }
