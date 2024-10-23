@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="address.h" />
     <ClInclude Include="customer.h" />
   </ItemGroup>
   <ItemGroup>
