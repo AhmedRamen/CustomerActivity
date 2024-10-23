@@ -4,7 +4,9 @@ This assignment is purely based on structs and how we can utilise structs to mak
 ## Output
 ```
 Customer ID: 19243
-Name: Jass
-Email Address: ciniw77441@jameagle.com
+Name: Joe Biden
+Email Address: president@whitehouse.gov
+Home Address:
+1600 Pennsylvania Avenue NW
+Washington, DC, 20500
 ```
-### THIS IS A FAKE NAME & EMAIL. DO NOT CONTACT THIS EMAIL ADDRESS IN ANY WAY SHAPE OR FORM.
