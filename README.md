@@ -1,5 +1,5 @@
 # Printing Customer Data
-This assignment is purely based on structs and how we can utilise structs to make dynamic objects.
+This assignment is purely based on structs and how we can utilise structs to make dynamic objects. Activity 23 adds a new capability to create home addresses and get home addresses from the customer. For this, we ultizing nesting structs inside structs.
 
 ## Output
 ```
